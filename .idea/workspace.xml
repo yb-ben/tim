@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="222583d3-dec6-48b3-8c2a-db720096e72e" name="Default Changelist" comment="" />
+    <list default="true" id="222583d3-dec6-48b3-8c2a-db720096e72e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TIM/CallbackController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TIM/CallbackController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,6 +124,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1cFDl52wEFnyRq9gTnrk3SogyXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -174,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590115610458</updated>
       <workItem from="1590115639693" duration="6164000" />
-      <workItem from="1590195362066" duration="3289000" />
+      <workItem from="1590195362066" duration="6246000" />
     </task>
     <servers />
   </component>
