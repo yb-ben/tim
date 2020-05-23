@@ -22,7 +22,9 @@ class CallbackController extends Controller
             $count = 1;
             $method = str_replace('C2C.Callback','',$data['CallbackCommand'],$count);
             $method = lcfirst($method);
-            return $this->$method($request);
+            if (method_exists($this, $method)) {
+                return $this->$method($request);
+            }
         }
         return response()->json(['ActionStatus'=>'OK','ErrorInfo'=>'','ErrorCode'=>0]);
     }
